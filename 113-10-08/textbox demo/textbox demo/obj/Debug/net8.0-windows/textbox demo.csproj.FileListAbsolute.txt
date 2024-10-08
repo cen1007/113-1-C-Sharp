@@ -1,0 +1,18 @@
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\bin\Debug\net8.0-windows\textbox demo.exe
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\bin\Debug\net8.0-windows\textbox demo.deps.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\bin\Debug\net8.0-windows\textbox demo.runtimeconfig.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\bin\Debug\net8.0-windows\textbox demo.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\bin\Debug\net8.0-windows\textbox demo.pdb
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox_demo.Form1.resources
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox_demo.Properties.Resources.resources
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.sourcelink.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\refint\textbox demo.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.pdb
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\textbox demo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-10-08\textbox demo\textbox demo\obj\Debug\net8.0-windows\ref\textbox demo.dll
