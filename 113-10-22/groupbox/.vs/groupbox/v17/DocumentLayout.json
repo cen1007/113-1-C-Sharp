@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113-1-C-Sharp\\113-10-22\\groupbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B6A747-F372-47CF-8930-E03BCF24DB6C}|groupbox\\groupbox.csproj|c:\\users\\shu\\desktop\\113-1-c-sharp\\113-10-22\\groupbox\\groupbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95B6A747-F372-47CF-8930-E03BCF24DB6C}|groupbox\\groupbox.csproj|solutionrelative:groupbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B6A747-F372-47CF-8930-E03BCF24DB6C}|groupbox\\groupbox.csproj|c:\\users\\shu\\desktop\\113-1-c-sharp\\113-10-22\\groupbox\\groupbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B6A747-F372-47CF-8930-E03BCF24DB6C}|groupbox\\groupbox.csproj|solutionrelative:groupbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-C-Sharp\\113-10-22\\groupbox\\groupbox\\Form1.cs",
+              "RelativeDocumentMoniker": "groupbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-C-Sharp\\113-10-22\\groupbox\\groupbox\\Form1.cs",
+              "RelativeToolTip": "groupbox\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:53:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-C-Sharp\\113-10-22\\groupbox\\groupbox\\Form1.cs",
+              "RelativeDocumentMoniker": "groupbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-C-Sharp\\113-10-22\\groupbox\\groupbox\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "groupbox\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:50:24.533Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
