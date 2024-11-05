@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\bin\Debug\net8.0-windows\chatbox.exe
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\bin\Debug\net8.0-windows\chatbox.deps.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\bin\Debug\net8.0-windows\chatbox.runtimeconfig.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\bin\Debug\net8.0-windows\chatbox.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\bin\Debug\net8.0-windows\chatbox.pdb
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.Form1.resources
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.AssemblyInfo.cs
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.sourcelink.json
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\refint\chatbox.dll
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.pdb
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\chatbox.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1-C-Sharp\113-11-05\chatbox\chatbox\obj\Debug\net8.0-windows\ref\chatbox.dll
