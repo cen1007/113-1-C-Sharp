@@ -1,0 +1,17 @@
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\bin\Debug\net8.0-windows\購物金額.exe
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\bin\Debug\net8.0-windows\購物金額.deps.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\bin\Debug\net8.0-windows\購物金額.runtimeconfig.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\bin\Debug\net8.0-windows\購物金額.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\bin\Debug\net8.0-windows\購物金額.pdb
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.Form1.resources
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.csproj.GenerateResource.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.AssemblyInfoInputs.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.AssemblyInfo.cs
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.csproj.CoreCompileInputs.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.sourcelink.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\refint\購物金額.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.pdb
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\購物金額.genruntimeconfig.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM3(283頁第6題)\購物金額\購物金額\obj\Debug\net8.0-windows\ref\購物金額.dll

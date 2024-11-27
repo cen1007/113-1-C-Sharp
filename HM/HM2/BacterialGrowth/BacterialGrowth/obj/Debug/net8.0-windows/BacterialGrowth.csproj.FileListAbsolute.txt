@@ -1,0 +1,17 @@
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\bin\Debug\net8.0-windows\BacterialGrowth.exe
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\bin\Debug\net8.0-windows\BacterialGrowth.deps.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\bin\Debug\net8.0-windows\BacterialGrowth.runtimeconfig.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\bin\Debug\net8.0-windows\BacterialGrowth.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\bin\Debug\net8.0-windows\BacterialGrowth.pdb
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.Form1.resources
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.csproj.GenerateResource.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.AssemblyInfoInputs.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.AssemblyInfo.cs
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.csproj.CoreCompileInputs.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.sourcelink.json
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\refint\BacterialGrowth.dll
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.pdb
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\BacterialGrowth.genruntimeconfig.cache
+C:\Users\ella1\Desktop\113-1-C-Sharp\HM\HM2\BacterialGrowth\BacterialGrowth\obj\Debug\net8.0-windows\ref\BacterialGrowth.dll
